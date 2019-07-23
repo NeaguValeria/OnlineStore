@@ -1,0 +1,4 @@
+TV 10 500
+PC 8 250
+Laptop 12 1000
+Mobile 3 2000
